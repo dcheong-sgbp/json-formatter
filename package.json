@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/json-formatter",
+  "version": "1.0.0",
+  "description": "Validate, pretty-print or minify JSON in the browser. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "json-formatter.js",
+  "unpkg": "json-formatter.js",
+  "files": ["json-formatter.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "json formatter", "json validator", "format json online"],
+  "homepage": "https://sgbp.tech/tools/json-formatter",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
